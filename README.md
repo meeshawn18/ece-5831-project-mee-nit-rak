@@ -1,2 +1,4 @@
-# ece-5831-project-mee-nit-rak
-# FALL 2022
+# IMAGE CAPTION GENERATOR
+## ECE-5831 Pattern Recognition and Neural Network (FALL 2022)
+
+### Authors: Meeshawn Marathe, Nithesh Veerappa, Raksha Varahamurthy
